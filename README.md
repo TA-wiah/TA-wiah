@@ -31,6 +31,9 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/tottimehjeffrey" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://gh.linkedin.com/in/jeffrey-tottimeh-135693319" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.tiktok.com/@lil_jay" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/tiktok-logo?style=for-the-badge&logo=tiktok&logoColor=white&color=%23000000" alt="TikTok" />
+</a>
 <a target="_blank" href="https://www.instagram.com/junior_billyhills" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCZIBw2LZdsXzqNeds22z_Fg?sub_confirmation=1" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TA-wiah&show_icons=true&locale=en" alt="TA-wiah" /></p>
