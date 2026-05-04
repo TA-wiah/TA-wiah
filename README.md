@@ -1,99 +1,17 @@
 <!-- Profile README for TA-wiah -->
-# Hi 👋, I'm TA-wiah
-### A Passionate Full Stack Software & Website Developer
-**From Hatchers Dev Studio · 📍 Ghana**
 
----
 
-## 🚀 Tech Arsenal
-
-**Languages**
-`PHP` `Python` `Dart` `Kotlin` `C`
-
-**Frontend / Mobile**
-`React` `React Native` `Flutter` `Android`
-
-**Backend / Desktop**
-`Node.js` `Django` `Flask` `.NET` `Electron` `Qt`
-
-**Data & Infrastructure**
-`MongoDB` `PostgreSQL` `MySQL` `Redis` `SQLite` `Firebase` `Appwrite`
-
-**Tools & Creative**
-`Git` `Linux` `Figma` `Blender` `Arduino`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TA-wiah&show_icons=true&locale=en&theme=tokyonight" alt="TA-wiah GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TA-wiah&theme=tokyonight" alt="TA-wiah GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TA-wiah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TA-wiah Top Languages" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TA-wiah&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="TA-wiah GitHub Trophies" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TA-wiah&theme=tokyo-night&hide_border=true&area=true" alt="TA-wiah Contribution Graph" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-> 🚧 _Coming soon! Highlight your best open-source projects, apps, or contributions here._
-
----
-
-## ⚡ Find Me Online
-
-<p align="center">
-  <a href="https://twitter.com/tottimehjeffrey" target="_blank"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter" /></a>
-  <a href="https://gh.linkedin.com/in/jeffrey-tottimeh-135693319" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
-  <a href="https://www.tiktok.com/@lil_jay" target="_blank"><img src="https://img.shields.io/badge/tiktok-logo?style=for-the-badge&logo=tiktok&logoColor=white&color=%23000000" alt="TikTok" /></a>
-  <a href="https://www.instagram.com/junior_billyhills" target="_blank"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/channel/UCZIBw2LZdsXzqNeds22z_Fg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="YouTube" /></a>
-</p>
-
----
-
-## ❤️ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hatchercollege" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
-  </a>
-  &nbsp;
-  <a href="https://www.ko-fi.com/hatchercollege" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
-  </a>
-</p>
-
-<!-- <h1 align="center">Hi 👋, I'm TA-wiah</h1>
+<h1 align="center">Hi 👋, I'm TA-wiah</h1>
 <h3 align="center">A Passionate Full Stack Software & Website Developer</h3>
 <p align="center">
   <b>From Hatchers Dev Studio</b>
-</p> -->
+</p>
 
 ---
 
 ## 🚀 Languages & Tools
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
   <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -121,7 +39,7 @@
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-</p> -->
+</p> 
 
 ---
 
@@ -147,19 +65,19 @@
 
 ## ⚡ Where to Find Me
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://twitter.com/tottimehjeffrey" target="_blank"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
   <a href="https://gh.linkedin.com/in/jeffrey-tottimeh-135693319" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a href="https://www.tiktok.com/@lil_jay" target="_blank"><img src="https://img.shields.io/badge/tiktok-logo?style=for-the-badge&logo=tiktok&logoColor=white&color=%23000000" alt="TikTok" /></a>
   <a href="https://www.instagram.com/junior_billyhills" target="_blank"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
   <a href="https://www.youtube.com/channel/UCZIBw2LZdsXzqNeds22z_Fg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-</p> -->
+</p> 
 
 ---
 
 ## ❤️ Support Me
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://www.buymeacoffee.com/hatchercollege" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
   </a>
@@ -167,7 +85,7 @@
   <a href="https://www.ko-fi.com/hatchercollege" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
   </a>
-</p> -->
+</p> 
 
 ---
 
